@@ -4,7 +4,7 @@ An AI-powered idea generator built with **Next.js 16**, **TypeScript**, and **Ta
 
 ## Live Demo
 
-....
+https://5-ideas-nu.vercel.app/
 
 ## Features
 
@@ -78,15 +78,4 @@ app/
 4. Gemini returns a JSON array of 5 ideas (title + description).
 5. The UI renders each idea as a card.
 
-## Deployment
 
-The easiest way is [Vercel](https://vercel.com/):
-
-1. Push the repo to GitHub.
-2. Import the project on Vercel.
-3. Add `GEMINI_API_KEY` (and optionally `GEMINI_MODEL`) in **Project Settings → Environment Variables**.
-4. Deploy.
-
-## License
-
-MIT
